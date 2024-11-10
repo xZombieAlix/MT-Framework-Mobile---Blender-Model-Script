@@ -7,3 +7,7 @@ The script was made with code snippets adapted from following projects:
 *    [HZDMeshTool - AlexPo: Skelton/armature creation , vertex/UV/norml exporting code](https://github.com/AlexP0/HZDMeshTool)
 
 *    [Ablam - HenryOfCarim and Sebastian Brachi : tri-list to tri-strip code](https://github.com/HenryOfCarim/albam_reloaded)
+
+Please Read the Wiki for documentation on how to use the tool, For contact i am more available on Discord then anywhere else if you have questions. 
+
+![image](https://github.com/user-attachments/assets/30ed05b8-d2ca-46d4-abed-2fa022f0ec44)
