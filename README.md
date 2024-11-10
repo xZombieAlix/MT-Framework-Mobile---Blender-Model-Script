@@ -1,3 +1,4 @@
+Downloads can be found in the section above.
 
 This script was made by [Aman](https://residentevilmodding.boards.net/user/856) over on the Resident Evil Modding Boards
 The script was made with code snippets adapted from following projects:
